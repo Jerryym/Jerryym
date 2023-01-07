@@ -8,6 +8,8 @@
 Jerryym/Jerryym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+-----
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Jerryym&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-----
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerryym&show_icons=true&theme=react&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerryym)](https://github.com/anuraghazra/github-readme-stats)
